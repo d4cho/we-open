@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "userName": "Daniel",
+      "title": "20% off all merchandise!",
+      "businessName": "Foo Bar Store",
+      "body": "20% off all purchases over $1000",
+      "startDate": "June 10 2020",
+      "endDate": "June 10 2021",
+      "pictures": [],
+      "address": {
+        "streetNumber": 123,
+        "streetName": "Foobar Ave.",
+        "city": "Toronto",
+        "province": "ON",
+        "postalCode": "M2N 3K3"
+      }
+    },
+    {
+      "userName": "Ken",
+      "title": "100% off nothing!",
+      "businessName": "Foo Foo Store",
+      "body": "Come and spend your money",
+      "startDate": "June 10 2020",
+      "endDate": "June 10 2021",
+      "pictures": [],
+      "address": {
+        "streetNumber": 123,
+        "streetName": "Foobar Ave.",
+        "city": "Toronto",
+        "province": "ON",
+        "postalCode": "M2N 3K3"
+      }
+    }
+  ]
+}

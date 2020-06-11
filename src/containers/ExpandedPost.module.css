@@ -1,0 +1,7 @@
+.parent {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: rgba(0, 0, 128, 0.404);
+  height: 400px;
+  transition: height 2s;
+}
